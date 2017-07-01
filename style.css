@@ -1,0 +1,56 @@
+body{
+  background-color: #e8dcb2;
+  font-family: fantasy;
+  font-family: 'montserrat'
+}
+p {
+  color: white;
+  font-size: 30px;
+  font-weight:lighter;
+  margin: 0;
+
+
+}
+img {
+  width:500px;
+}
+.common {background-color: #cec090;
+
+
+}
+h1 {
+  font-size: 100px;
+  margin:0;
+}
+a {
+  color: white;
+  text-decoration: none;
+  width: 50%;
+  display: inline-block;
+}
+#onelist {
+  color: #393e44;
+  font-size: 20px;
+}
+.newslist {
+  width: 50%;
+  margin: auto;
+
+}
+h2 {
+  vertical-align: top;
+}
+
+h3 {
+  width: 40%;
+  display: inline-block;
+  font-size: 20px;
+  vertical-align: top;
+}
+
+ul {list-style: none;}
+
+.top-story {
+  width: 40%;
+  display: inline-block;
+}
