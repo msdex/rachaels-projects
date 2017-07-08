@@ -7,33 +7,53 @@ p {
   color: white;
   font-size: 30px;
   font-weight:lighter;
+  text-align: center;
   margin: 0;
-
-
 }
+
+.woff {
+font-size: 25px;
+color:#434f63;
+}
+
 img {
-  width:500px;
+  width:100%;
 }
 .common {background-color: #cec090;
-
-
 }
+
+
 h1 {
   font-size: 100px;
   margin:0;
+  text-align: center;
+
 }
 a {
   color: white;
   text-decoration: none;
-  width: 50%;
+  width: 49%;
   display: inline-block;
 }
+
+.headlinewoff {
+  width: 49%;
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+}
+
+a.headline-link {
+  color: black;
+  width: 100%;
+}
+
 #onelist {
   color: #393e44;
   font-size: 20px;
 }
 .newslist {
-  width: 50%;
+  width: 80%;
   margin: auto;
 
 }
@@ -48,9 +68,10 @@ h3 {
   vertical-align: top;
 }
 
-ul {list-style: none;}
 
-.top-story {
-  width: 40%;
-  display: inline-block;
+.story {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-bottom: 2px solid black;
 }
